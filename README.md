@@ -1,4 +1,4 @@
-# Chris DeCleene's HTML/CSS Cheatsheet
+# Tsunami Coffee
 > The focus of this project was to turn this website into a mobile responsive website. The use of media queries and responsive CSS creates a seemless look on all devices. I built this as part of the Full Stack Engineer Career Path on [Codecademy](https://www.codecademy.com/learn). Please share any feedback regarding this project! Happy coding!
 
 ## Table of Contents
